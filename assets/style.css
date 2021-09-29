@@ -1,0 +1,29 @@
+.titleBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 75px;
+}
+
+img {
+  width: 10%;
+  height: 10%;
+  margin: 0 25px;
+}
+
+.title h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.linkBar a {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  padding: 5px;
+  color: black;
+}
+
+.linkBar a:hover {
+  color: red;
+}
