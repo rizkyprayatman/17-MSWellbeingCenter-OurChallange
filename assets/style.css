@@ -24,6 +24,15 @@ img {
   color: black;
 }
 
+.person {
+  display: flex;
+  justify-content: center;
+}
+
 .linkBar a:hover {
   color: red;
+}
+
+.personTeam {
+  display: none;
 }
